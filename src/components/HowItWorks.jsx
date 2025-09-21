@@ -124,7 +124,7 @@ export default function HowItWorks() {
           </div>
         </div>
       </div>
-
+ 
       <style jsx>{`
         @keyframes float {
           0% { transform: translateY(0px); }
