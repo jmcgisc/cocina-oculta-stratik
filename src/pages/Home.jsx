@@ -17,13 +17,13 @@ export default function Home() {
       <Hero />
       <ProductosDestacados />
       <HowItWorks />
-      <Testimonials />
       <Recetas />
-      <Gallery />
       <Promociones />
       <Eventos />
       <Mapa />
       <SobreNosotros />
+      <Gallery />
+      <Testimonials />
       <FAQ />
       <Contacto />
     </>
