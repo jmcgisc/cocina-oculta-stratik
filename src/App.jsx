@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import RecetasPage from "./pages/RecetasPage";
 import RecetaDetail from "./pages/RecetaDetail";
+import WhatsAppButton from "./components/WhatsAppButton";
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
         </Routes>
       </main>
       <Footer />
+      <WhatsAppButton /> {/* Botón flotante */}
     </Router>
   );
 }
