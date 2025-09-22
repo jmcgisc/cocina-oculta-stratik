@@ -3,19 +3,19 @@ export default function Promociones() {
     {
       titulo: "2x1 en Galletas",
       desc: "Solo este fin de semana 🍪 ¡Endulza tus días con nuestras galletas caseras!",
-      img: "https://source.unsplash.com/600x400/?cookies",
+      img: "images/promociones/galletas.jpg",
       tag: "Promo del mes",
     },
     {
       titulo: "Cheesecake con 15% OFF",
       desc: "Delicioso cheesecake artesanal con descuento especial 🧀",
-      img: "https://source.unsplash.com/600x400/?cheesecake",
+      img: "images/promociones/pastel-queso.jpg",
       tag: "Oferta limitada",
     },
     {
       titulo: "Pastel de Chocolate Familiar",
       desc: "Perfecto para cumpleaños 🎂 ¡Haz tu pedido ahora y recibe decoración gratis!",
-      img: "https://source.unsplash.com/600x400/?chocolate-cake",
+      img: "images/promociones/pastel-chocolate.jpg",
       tag: "Recomendado",
     },
   ];

@@ -3,19 +3,19 @@ export default function ProductosDestacados() {
     {
       titulo: "Pastel de Chocolate",
       desc: "Suave, húmedo y delicioso 🍫",
-      img: "https://source.unsplash.com/400x300/?chocolate-cake",
+      img: "images/productos/pastel-chocolate.jpg",
       tag: "Más vendido",
     },
     {
       titulo: "Cheesecake",
       desc: "Clásico con base crujiente 🧀",
-      img: "https://source.unsplash.com/400x300/?cheesecake",
+      img: "images/productos/cheesecake.jpg",
       tag: "Favorito de la casa",
     },
     {
       titulo: "Galletas",
       desc: "Recién horneadas y crujientes 🍪",
-      img: "https://source.unsplash.com/400x300/?cookies",
+      img: "images/productos/galletas.jpg",
       tag: "Nuevo lanzamiento",
     },
   ];

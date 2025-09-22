@@ -3,17 +3,17 @@ export default function Recetas() {
     {
       titulo: "Brownies Caseros",
       desc: "Receta fácil para brownies húmedos y chocolatísimos 🍫",
-      img: "https://source.unsplash.com/400x300/?brownies",
+      img: "images/recetas/brownie.jpg",
     },
     {
       titulo: "Cheesecake sin horno",
       desc: "Suave, cremoso y con base crujiente 🧀",
-      img: "https://source.unsplash.com/400x300/?cheesecake-dessert",
+      img: "images/recetas/cheesecake.jpg",
     },
     {
       titulo: "Galletas de avena",
       desc: "Deliciosas y saludables con un toque de canela 🍪",
-      img: "https://source.unsplash.com/400x300/?oatmeal-cookies",
+      img: "images/recetas/galletas.jpg",
     },
   ];
 

@@ -25,7 +25,6 @@ export default function Testimonials() {
           {testimonios.map((t, i) => (
             <div key={i} className="bg-gray-50 p-6 rounded-xl shadow hover:shadow-lg transition text-left">
               <div className="flex items-center mb-4">
-                <img src={t.img} alt={t.nombre} className="w-12 h-12 rounded-full mr-4" />
                 <h3 className="font-semibold text-pink-700">{t.nombre}</h3>
               </div>
               <p className="text-gray-600">“{t.texto}”</p>
